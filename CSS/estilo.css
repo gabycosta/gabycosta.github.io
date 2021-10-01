@@ -2,7 +2,7 @@ body{
     background-color: rgb(3, 3, 3);
 }
 .col{
-    background-color: rgb(8, 4, 4);
+    background-color: rgba(8, 4, 4, 0);
 }
 .container{
     margin-top:20px;
